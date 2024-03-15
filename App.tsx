@@ -11,7 +11,7 @@ export default function App() {
 
   return (
     <View>
-      <Text> textInComponent </Text>
+      <Text> This is the splash demo. </Text>
     </View>
   );
 }
